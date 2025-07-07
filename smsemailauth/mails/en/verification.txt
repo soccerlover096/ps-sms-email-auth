@@ -1,0 +1,5 @@
+Verification Code
+
+Your verification code is: {message}
+
+This code will expire in 5 minutes.
