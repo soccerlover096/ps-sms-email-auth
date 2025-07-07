@@ -1,0 +1,54 @@
+.auth-container {
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.auth-form {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.auth-type-selector {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.auth-type-selector button {
+    flex: 1;
+}
+
+.auth-step {
+    margin-top: 20px;
+}
+
+.auth-step input,
+.auth-step select {
+    margin-bottom: 15px;
+}
+
+.sms-input {
+    display: flex;
+    gap: 10px;
+}
+
+.sms-input select {
+    flex: 0 0 120px;
+}
+
+#verification-code {
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.resend-container {
+    text-align: center;
+    margin-top: 15px;
+}
+
+#resend-timer {
+    color: #666;
+}
